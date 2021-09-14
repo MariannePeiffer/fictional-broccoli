@@ -47,7 +47,7 @@ jobs:
           mkdir -p dist
           cp -r figures dist/
           cp references.json dist/
-          cp .assets/logo.png dist/
+          cp .assets/logoBrocoli.png dist/
           cp author_template.tsv dist/
       - name: Build the website
         run: pandoc README.md -o dist/index.html -F pandoc-crossref --citeproc --bibliography=references.json --csl .assets/citationstyle.csl --metadata-file=metadata.json --metadata-file=affiliations.json --metadata-file=abstract.json --template=.assets/templates/index.html
