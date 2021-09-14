@@ -1,15 +1,15 @@
 {
-  "title": "Template to prepare preprints and manuscripts using markdown and github actions",
+  "title": " test d'un template d'article soumis à revue basé sur du markdown & github",
   "authors": [
     {
       "affiliations": [
         "Université de Montréal",
         "Québec Centre for Biodiversity Sciences"
       ],
-      "familyname": "Poisot",
-      "givennames": "Timothée",
-      "email": "timothee.poisot@umontreal.ca",
-      "orcid": "0000-0002-0735-5184",
+      "familyname": "Brocoli",
+      "givennames": "choupinou",
+      "email": "brocoli.choupinou@inrae.fr",
+      "orcid": "0000-0000-0000-0000",
       "status": ["corresponding", "equal"]
     },
     {
@@ -38,9 +38,9 @@
     "Internals": "GitHub actions and a series of python scritpts. The markdown is handled with `pandoc`."
   },
   "keywords": [
-    "pandoc",
-    "pandoc-crossref",
-    "github actions"
+    "chou",
+    "vert",
+    "variété"
   ],
   "citationstyle": "ecology-letters"
 }
