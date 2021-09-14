@@ -1306,7 +1306,6 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/inconsolata/ts1zi4.fd
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/inconsolata/ts1zi4.fd
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/inconsolata/ts1zi4.fd
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/inconsolata/ts1-zi4r.tfm
-INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/t1-stix2text-italic.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/t1-stix2text.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/t1-stix2text.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
@@ -1322,6 +1321,7 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/t1-stix2text-italic.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/inconsolata/t1-zi4b-0.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/stix2-mathrm.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/stix2-type1/stix2-mathrm.tfm
