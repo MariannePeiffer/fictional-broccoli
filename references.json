@@ -1,31 +1,30 @@
 [
     {
-        "DOI": "10.1002/jez.1400610202",
+        "DOI": "https://hal.inrae.fr/hal-02756439",
         "author": [
             {
-                "family": "Allee",
-                "given": "W. C."
+                "family": "Valverde",
+                "given": "Juan."
             },
             {
-                "family": "Bowen",
-                "given": "Edith S."
+                "family": "al"
             }
         ],
-        "container-title": "Journal of Experimental Zoology",
+        "container-title": "",
         "id": "Allee1932StuAni",
-        "issue": "2",
+        "issue": "",
         "issued": {
             "date-parts": [
                 [
-                    1932,
+                    2010,
                     2
                 ]
             ]
         },
-        "page": "185-207",
-        "title": "Studies in animal aggregations: Mass protection against colloidal silver among goldfishes",
+        "page": "",
+        "title": "Quality assessment of broccoli florets by 500 MHz-1H NMR profiling",
         "type": "article-journal",
-        "volume": "61"
+        "volume": ""
     },
     {
         "author": [
