@@ -1,10 +1,8 @@
 \begin{figure}
 \hypertarget{fig:figure}{%
 \centering
-\includegraphics{figures/figure.png}
-\caption{This is the legend of the figure, which will be shown in the
-margin in preprint mode, and underneath the figure in draft mode. The
-legend can contain references, etc. It is advised to use a resolution of
-at least 600dpi for the figures.}\label{fig:figure}
+\includegraphics{figures/image2.png}
+\caption{Image libre de droit de brocoli trouvée sur
+https://www.publicdomainpictures.net}\label{fig:figure}
 }
 \end{figure}
