@@ -1,5 +1,5 @@
 {
-  "title": " test d'un template d'article soumis à revue basé sur du markdown & github",
+  "title": " test d'un template  basé sur du markdown & github pour soumettre un article à revue",
   "authors": [
     {
       "affiliations": [
@@ -37,6 +37,11 @@
     "Motivation": "It makes collaborating on text with GitHub easier, and means that we never need to think about the output.",
     "Internals": "GitHub actions and a series of python scritpts. The markdown is handled with `pandoc`."
   },
+  
+  "Data availability statement ": {
+    "The data that support the findings of this study are openly available in the gardenRepository "
+  },
+  
   "keywords": [
     "chou",
     "vert",
