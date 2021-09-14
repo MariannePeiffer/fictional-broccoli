@@ -31,7 +31,7 @@ as follows:
       ],
       "status": ["corresponding", "equal"]
     }
-~~~
+~~~ 
 
 The `email` field is recommended for all authors. The `status` field is only
 useful for the corresponding author, and to denote equal contributions. These
